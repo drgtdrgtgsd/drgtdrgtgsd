@@ -15,7 +15,7 @@ From 长沙，性别是男，机械男？TI男？
 [![My Skills](https://skillicons.dev/icons?i=html,c,md)](https://skillicons.dev)
 
 ### Operating System
-[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,debian,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,debian,arch,linux,windows)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,git,npm,vim,gcp,gmail,ps,vscode,ai)](https://skillicons.dev)
